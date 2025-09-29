@@ -6,6 +6,8 @@
 
 Clean, fast, and familiar web search UI powered by OpenSearch + Apache Tika.
 
+![image](https://github.com/WhiskeyCoder/osg-search/blob/main/images/2025-09-29%2014_51_51.png)
+
 </div>
 
 ---
@@ -23,6 +25,14 @@ Clean, fast, and familiar web search UI powered by OpenSearch + Apache Tika.
 - **No lockouts**: Dev tools and selection fully enabled for contributors
 
 > Made by [@WhiskeyCoder](https://github.com/WhiskeyCoder)
+
+**Simple Search UI**
+![image](https://github.com/WhiskeyCoder/osg-search/blob/main/images/2025-09-29%2014_50_27.png)
+
+**Dynamic Content Loading**
+![image](https://github.com/WhiskeyCoder/osg-search/blob/main/images/2025-09-29%2015_00_36.png)
+
+
 
 ---
 
